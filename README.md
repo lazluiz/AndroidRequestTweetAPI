@@ -8,14 +8,14 @@ To make it work - because of permissions - you need to have a Twitter account an
 
 Registering the APP you will give you three keys: 
 
--Consumer Key (API Key)
--Consumer Secret (API Secret)
--Access Token
--Access Token Secret
+- Consumer Key (API Key)
+- Consumer Secret (API Secret)
+- Access Token
+- Access Token Secret
 
 Then you've got to change the values on MainActivity.java constants.
 
 ## Libraries 
--twitter4j 4.0.4: unofficial Java library for the Twitter API. (http://twitter4j.org/)
--android-shape-imageview 0.9.2: custom shaped android imageview components. (https://github.com/siyamed/android-shape-imageview)
--glide 3.6.1: wraps media decoding, memory and disk caching, and resource pooling. (https://github.com/bumptech/glide)
+- twitter4j 4.0.4: unofficial Java library for the Twitter API. (http://twitter4j.org/)
+- android-shape-imageview 0.9.2: custom shaped android imageview components. (https://github.com/siyamed/android-shape-imageview)
+- glide 3.6.1: wraps media decoding, memory and disk caching, and resource pooling. (https://github.com/bumptech/glide)
