@@ -4,6 +4,7 @@
 
 This APP is an example on how to make an call to the Twitter API. 
 
+## Prerequisites
 To make it work - because of permissions - you need to have a Twitter account and register the APP so it can access the Twitter API. That can be done here: https://apps.twitter.com/
 
 Registering the APP you will give you three keys: 
