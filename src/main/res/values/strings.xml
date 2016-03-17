@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RequestTwitterAPI</string>
+    <string name="activity_details">Visualizar Tweet</string>
+    <string name="action_about">Sobre o APP</string>
+    <string name="about_message">O RequestTwitterAPI é um projeto de exemplo mostrando uma simples requisição para a API do Twitter.\n\n
+        Basta clicar no botão com a lupa para efetuar a requisição e irá retornar os tweets referentes a query (atualmente from:SocialBaseBR).\n\n
+        Foi utilizado a biblioteca "twitter4j" para efetuar as requisições, e para que estas sejam autenticadas é necessário alterar os vales chave encontrados na MainActivity.java.\n\n
+        Para salvar as informações obtidas foi utilizado o banco SQLite.\n\n
+
+        Desenvolvido por: Luiz F. Lazzarin.
+    </string>
+</resources>
