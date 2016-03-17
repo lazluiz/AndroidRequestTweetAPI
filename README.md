@@ -20,3 +20,6 @@ Then you've got to change the values on MainActivity.java constants.
 - twitter4j 4.0.4: unofficial Java library for the Twitter API. (http://twitter4j.org/)
 - android-shape-imageview 0.9.2: custom shaped android imageview components. (https://github.com/siyamed/android-shape-imageview)
 - glide 3.6.1: wraps media decoding, memory and disk caching, and resource pooling. (https://github.com/bumptech/glide)
+
+## APP
+Soon available @ Google Play Store.
