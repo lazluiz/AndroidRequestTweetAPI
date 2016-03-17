@@ -22,4 +22,4 @@ Then you've got to change the values on MainActivity.java constants.
 - glide 3.6.1: wraps media decoding, memory and disk caching, and resource pooling. (https://github.com/bumptech/glide)
 
 ## APP
-Soon available @ Google Play Store.
+https://play.google.com/store/apps/details?id=com.zelius.requestapi
