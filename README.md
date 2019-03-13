@@ -1,4 +1,5 @@
-<img src="twitter-android.png" align="right" height"200px" width="200px" />
+![alt text](twitter-android.png)
+<img src="" align="right" height"200px" width="200px" />
 # AndroidRequestTweetAPI
 >Android APP that make requests to Twitter API
 
