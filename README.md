@@ -1,5 +1,5 @@
-![alt text](twitter-android.png)
-<img src="" align="right" height"200px" width="200px" />
+<p><img src="https://github.com/lazluiz/AndroidRequestTweetAPI/blob/master/twitter-android.png" align="right" height"200px" width="200px" /></p>
+
 # AndroidRequestTweetAPI
 >Android APP that make requests to Twitter API
 
